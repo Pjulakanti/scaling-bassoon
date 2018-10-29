@@ -63,9 +63,16 @@ Our home page would consist of a picture in the middle of a tree (because of our
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
-
 Name each interface or class and briefly describe its function or purpose.
+
+Main(); To run the program to test if it works, call the methods in order that they’re needed. 
+AVL tree interface and subsequent methods, to provide the scaffolding for the AVL tree. 
+Userinput(); method. To read user input and text files coming in, and check that they’re appropriate. 
+delete/clear expenditure method. To delete the inputs from the tree/array. Has the option for the user to delete select data instead of all the data. 
+Junit tests. To test for failure and check if errors are thrown correctly. 
+Print(); print out results in text format. 
+PrintGraph(); print out the graph based on text 
+
 
 
 ## Edit and Submit this file and any figures referenced by this document.
