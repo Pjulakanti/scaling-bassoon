@@ -47,11 +47,11 @@ The user inputs a category of their expenditures they would like to look at. The
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 We need data for each expenditure, which can be obtained either by asking the users to manually put in the transaction, or by pulling the data through the API of the bank.
 
-Example: 
-Payee: Wiscard
-Amount: $5000
-Category: Food
-Date: 10/29/2017
+- Example: 
+- Payee: Wiscard
+- Amount: $5000
+- Category: Food
+- Date: 10/29/2017
 
 
 
