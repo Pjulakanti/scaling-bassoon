@@ -65,13 +65,16 @@ Our home page would consist of a picture in the middle of a tree (because of our
 
 Name each interface or class and briefly describe its function or purpose.
 
-Main(); To run the program to test if it works, call the methods in order that they’re needed. 
-AVL tree interface and subsequent methods, to provide the scaffolding for the AVL tree. 
-Userinput(); method. To read user input and text files coming in, and check that they’re appropriate. 
-delete/clear expenditure method. To delete the inputs from the tree/array. Has the option for the user to delete select data instead of all the data. 
-Junit tests. To test for failure and check if errors are thrown correctly. 
-Print(); print out results in text format. 
-PrintGraph(); print out the graph based on text 
+The units that we will use in this class is an array list and an AVL tree. The array list will have array lists stored in it. Each array list within the primary arrayList will represent a category, such as food, gas or rent. Each individual array lists will represent the history of expenditures in this category. Each history record will be represented as a class, and will be assigned with a transaction number that can be used as the key in the large AVL tree to look up the history object.
+
+- Main(); To run the program to test if it works, call the methods in order that they’re needed. 
+- AVL tree interface and subsequent methods, to provide the scaffolding for the AVL tree. 
+- Userinput(); method. To read user input and text files coming in, and check that they’re appropriate. 
+- delete/clear expenditure method. To delete the inputs from the tree/array. Has the option for the user to delete select data instead of all the data. 
+- Junit tests. To test for failure and check if errors are thrown correctly. 
+- Print(); print out results in text format. 
+- PrintGraph(); print out the graph based on text 
+
 
 
 
