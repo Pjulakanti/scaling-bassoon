@@ -57,6 +57,7 @@ We need data for each expenditure, which can be obtained either by asking the us
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+Our home page would consist of a picture in the middle of a tree (because of our project name), and there would also be buttons for logging in and signing up. There will be links that explain how the program keeps track and categorizes your spending, another link for its uses, and an about us link on the homepage. Once signed in, the user will be welcomed with a brief update on their spending since the last time they logged in, and tracking graphs on how their spending has changed. We plan on integrating inputs from one’s bank, and manual inputs, so if the user uses cash to buy something, they could manually track it. We would also delete duplicate expenditure if our algorithm found a resemblance between price and categorization by prompting the user and asking if it’s a duplicate item. 
 
 
 
