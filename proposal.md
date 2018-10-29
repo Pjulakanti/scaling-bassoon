@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 111 Project Proposal: Money Tree
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,10 +35,12 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Money Tree
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+
+The user inputs a category of their expenditures they would like to look at. The program produces a pie graph of what the user spent in the last month. For instance if the category is food, each slice of the pie graph is an individual foot item the user has purchased. In addition, the user has the option to be shown a line graph of their purchases over time.  
 
 
 
